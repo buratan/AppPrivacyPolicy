@@ -17,6 +17,7 @@
 <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">アプリが使用するサードパーティのサービスプロバイダーのプライバシーポリシーへのリンク</font></font>
 
 *   [<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AdMob</font></font>](https://support.google.com/admob/answer/6128543?hl=en)
+*   [<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Firebase向けGoogleアナリティクス</font></font>](https://firebase.google.com/support/privacy)
 
 **<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ログデータ</font></font>**
 
